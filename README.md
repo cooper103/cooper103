@@ -1,7 +1,7 @@
 # Hi 👋 I'm Cooper!   
 
 🏫Computer Engineering Student at the <a href="http://www.uwyo.edu/">University of Wyoming</a>     
-💻Currently working on an Unreal Engine 5 game   
+💻Currently sharpening up my C++ skils by following a 3D rendering engine course
 📧You can reach me at cooper.krauth@gmail.com     
 🤖Some of my Languages and Skills
 <p float="left">
